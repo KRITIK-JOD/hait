@@ -1,0 +1,4 @@
+git clone https://github.com/KRITIK-JOD/hait
+cd KRITIK
+git pull
+python new.py
